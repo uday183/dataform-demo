@@ -1,0 +1,8 @@
+{
+  "defaultSchema": "dataform",
+  "assertionSchema": "dataform_assertions",
+  "warehouse": "bigquery",
+  "defaultDatabase": "janeesh-scrumteam-18jul2022",
+  "defaultLocation": "EU"
+}
+    
